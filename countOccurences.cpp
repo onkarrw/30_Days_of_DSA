@@ -10,17 +10,15 @@ int main()
 
     int x;
     int counter = 0;
-     cin >> x;
+    cin >> x;
 
-
-     for (int i= 0  ; i< n; i++)
-     {
+    for (int i = 0; i < n; i++)
+    {
         if (arr[i] == x)
         {
             counter++;
         }
-     }
+    }
 
-
-     cout << x << " occurred " << counter  << " times.";
+    cout << x << " occurred " << counter << " times.";
 }
