@@ -1,3 +1,8 @@
+
+/*
+Given a sorted array arr[] and a number x, write a function that counts the occurrences of x in arr[]
+
+*/
 #include <iostream>
 using namespace std;
 
