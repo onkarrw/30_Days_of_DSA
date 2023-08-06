@@ -1,3 +1,7 @@
+/*
+    Given an unsorted array of N integers, find smallest and largest element in optimal way.
+    */
+
 #include <iostream>
 using namespace std;
 
