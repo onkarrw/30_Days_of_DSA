@@ -1,3 +1,4 @@
+// Reverse a string.
 
 
 #include <iostream>
@@ -22,6 +23,8 @@ int main()
   
 }
 
+
+//reverse a words from sentence.
 
 /*
 
